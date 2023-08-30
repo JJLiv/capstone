@@ -1,0 +1,42 @@
+CAPSTONE PROPOSAL
+
+1.
+- React JS (frontend)
+- Node Express (backend)
+
+2.
+- The backend is going to be my primary focus, with intentions to have a completely functional front end.
+
+3.
+- Website
+
+4.
+- The goal will be to allow users to acces player and team data and manipulate it with provided options.
+	ex: get averages, compare teams/players
+
+5. 
+- Sports fans
+
+6.
+- Plan on using real and up to date sports data provided by an API on the web
+
+7. 
+a) see attached for draft of database schema
+b) The API being used for my CapStone contains many layers of data, and I will only be using specific data
+	still being determined. A potential issue could be only getting the necessary data without the 
+	unecessary data.
+c) Would need to secure login credentials for users and also the API key.
+d) app will include login/signUp functionality, will be able to get data, manipulate the way data is showed, 
+	search for data by keyword(s). Allow usser to add team to favorites list
+e) USER FLOW
+	- Login
+	- Navigate to teams page or players page
+	- select options for stats to show
+	- add/remove teams or players to favorites
+	- update profile info on profile page
+	- logout
+f) Added chart manipulation for past data (stats)
+   combine algorithms to show comparisons between teams
+   all user to save options created and favorite teams
+
+	
